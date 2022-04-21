@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning Javascript and UI softwares
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me 
+- EMAIL: ngobirifalyne00@gmail.com
+- LinkedIn: Ngobiri Falyne
 
 <!---
 falyne/falyne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
