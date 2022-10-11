@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @falyne
 - 👀 I’m interested in Graphics and Web Designing
 - 🌱 I’m currently learning Javascript and UI softwares
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate
 - 📫 How to reach me 
 - EMAIL: ngobirifalyne00@gmail.com
 - LinkedIn: Ngobiri Falyne
