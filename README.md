@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @falyne
-- 👀 I’m interested in Graphics and Web Designing
-- 🌱 I’m currently learning Javascript and UI softwares
+- 👀 I’m interested in Cybersecurity, java programming , Graphics and Web Designing
+- 🌱 I’m currently learning Java programming and UI softwares
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me 
 - EMAIL: ngobirifalyne00@gmail.com
